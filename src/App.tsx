@@ -30,6 +30,7 @@ function App() {
       />
 
       <CardSection2
+        bgColor={'#eee'}
         sectionTitle={'Created By'}
         cardList={[
           { title: 'S.Yamamoto', text: 'Frontend', image: '/superwindui.png', snsList: [{ name: 'twitter', link: '/twitter', icon: '/twitter.svg' }, { name: 'instagram', link: '/instagram', icon: '/instagram.svg' }, { name: 'threads', link: '/threads', icon: '/threads.svg' }] },
