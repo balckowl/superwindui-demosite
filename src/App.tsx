@@ -1,4 +1,4 @@
-import { CardSection, CardSection2, Footer, Header, Header2, Hero } from 'superwindui'
+import { CardSection, CardSection2, Footer, Header2, Hero } from 'superwindui'
 import './App.css'
 
 function App() {
