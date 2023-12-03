@@ -15,7 +15,7 @@ function App() {
       
       <Hero
         heroTitle={'SuperwindUI'}
-        heroText={'次世代のUライブラリ、軽量で学習コストも低い'}
+        heroText={'次世代のUIライブラリ、軽量で学習コストも低い'}
         heroImage={'/wind.jpg'}
         heroBtn={{ name: '詳細を見る', link: '/more', color: "white", bgColor: "navy" }}
       />
